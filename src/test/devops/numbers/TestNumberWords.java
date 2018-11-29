@@ -5,7 +5,7 @@ import org.junit.*;
 
 import devops.numbers.NumberWords;
 
-public class NumberWordsTests {
+public class TestNumberWords {
 	private NumberWordsApplication numberWords ;
 	
 	@Before
